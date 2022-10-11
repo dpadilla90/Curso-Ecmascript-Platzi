@@ -1,0 +1,23 @@
+{
+  "name": "cursoecmascript",
+  "version": "1.0.0",
+  "description": "Curso de Ecmascript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dpadilla90/Curso-Ecmascript-Platzi.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Dennis Padilla <d_padilla.y@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpadilla90/Curso-Ecmascript-Platzi/issues"
+  },
+  "homepage": "https://github.com/dpadilla90/Curso-Ecmascript-Platzi#readme"
+}
