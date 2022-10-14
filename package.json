@@ -16,6 +16,7 @@
   ],
   "author": "Dennis Padilla <d_padilla.y@hotmail.com>",
   "license": "MIT",
+  "type":"module",
   "bugs": {
     "url": "https://github.com/dpadilla90/Curso-Ecmascript-Platzi/issues"
   },
